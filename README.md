@@ -22,4 +22,16 @@
 1.  Membuat form dan menambahkan style internal pada form
 ![langkah 3 1](https://user-images.githubusercontent.com/56240483/114339976-b5042900-9b80-11eb-96e4-16e818c1a150.png)
 ### Hasilnya :
-![langkah 3 2](https://user-images.githubusercontent.com/56240483/114339988-ba617380-9b80-11eb-9c7f-755ab7e097ec.png)
+![langkah 3 2](https://user-images.githubusercontent.com/56240483/114343059-48d8f380-9b87-11eb-8641-64547fa2a4b3.png)
+
+# Pertanyaan dan Tugas
+
+## Buatlah form yang menampilkan dropdown menu dan listbox dengan multiple selection.
+1. Syntax untuk tampilan dropdown menu :
+![jawab 1 1](https://user-images.githubusercontent.com/56240483/114343082-57bfa600-9b87-11eb-8972-586257526c50.png)
+2. Syntax untuk tampilan listbox dengan multiple selection :
+![jawab 1 2](https://user-images.githubusercontent.com/56240483/114343048-44143f80-9b87-11eb-8ba7-7ce11ebca7c5.png)
+3. Syntax CSS eksternal untuk merubah tampilan :
+![jawam 1 3](https://user-images.githubusercontent.com/56240483/114343073-53938880-9b87-11eb-9421-f153ffc55b8a.png)
+4. Hasil dropdown menu dan listbox dengan multiple selection :
+![jawab 1 4](https://user-images.githubusercontent.com/56240483/114343057-47a7c680-9b87-11eb-87e7-12c44befe14e.png)
